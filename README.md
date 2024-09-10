@@ -1,45 +1,33 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# LeetCode Problems
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
+**Número da Lista**: 17 <br>
+**Conteúdo da Disciplina**: PD<br>
 
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
-
-## Alunos
+## Aluno
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 18/0113496  |  Guilherme de Oliveira Mendes |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Neste projeto, será abordado alguns problemas disponíveis na plataforma [LeetCode](https://leetcode.com/) sobre algoritmos de dividir e conquistar. Sendo que os problemas apresentados serão resolvidos utilizando conceitos apredidos em sala de aula.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+[Difícil: 879. Profitable Schemes](https://leetcode.com/problems/profitable-schemes/description/)<br>
+![](./src/assets/Sub21.png)
+
+[Difícil: 115. Distinct Subsequences ](https://leetcode.com/problems/distinct-subsequences/description/)<br>
+![](./src/assets/Sub12.png)
+
+[Média: 72. Edit Distance](https://leetcode.com/problems/edit-distance/description/)<br>
+![](./src/assets/Sub11.png)
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python3  <br> 
+**Framework**: Não<br>
+**Pré-requisito**: Compilador de Python3.
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
+## Link da Apresentação
+[Apresentação PA 17 - LeetCode Problems - Programação Dinâmica](https://www.youtube.com/watch?v=XAQw4_Y_Tvw)<br>
 
 
 
