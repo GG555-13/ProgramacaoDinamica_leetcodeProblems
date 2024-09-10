@@ -16,7 +16,7 @@ Neste projeto, será abordado alguns problemas disponíveis na plataforma [LeetC
 ![](./src/assets/Sub21.png)
 
 [Difícil: 115. Distinct Subsequences ](https://leetcode.com/problems/distinct-subsequences/description/)<br>
-![](./src/assets/Sub12.png)
+![](./src/assets/Sub22.png)
 
 [Média: 72. Edit Distance](https://leetcode.com/problems/edit-distance/description/)<br>
 ![](./src/assets/Sub11.png)
